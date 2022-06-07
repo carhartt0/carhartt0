@@ -1,3 +1,11 @@
+<p align='center'>
+  <a href="https://github.com/carhartt0">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=Study%20Repository&fontSize=50"/>
+  </a>
+</p>
+
+### carhartt0's github
+
 ### Hi there 👋
 
 <!--

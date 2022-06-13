@@ -4,7 +4,20 @@
   </a>
 </p>
 
-### carhartt0's github
+## carhartt0's github
+- Name : KyungGil Lim ( Korean Name : Lim Kyung Gil)
+- Email : lkko3579@naver.com
+- 🌱 I’m currently learning C# programming
+
+<img src="https://github-readme-stats.vercel.app/api?username=carhartt0&theme=synthwave&show_icons=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carhartt0&theme=synthwave&layout=compact"/>
+
+## Tech Stack
+<h3 align='center'>Languages</h3>
+<p>
+  <a href="https://github.com/carhartt0/StudyWpf.git" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
+</p>
 
 ### Hi there 👋
 
